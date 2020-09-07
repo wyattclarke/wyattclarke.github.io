@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: Avoiding Bad Neighborhoods
 ---
