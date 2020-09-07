@@ -10,14 +10,14 @@ What's the easiest way to secure housing for a community of like-minded individu
 Option A: Gain political control of an existing common interest housing development, governed by an HOA:
 
 1. Find a development with (1) high fees relative to property value, (2) high ownership turnover, and (3) low voting thresholds to change rules. It should also have a pre-existing sympathetic group of owners. 
-- Start a sub-HOA within the master HOA. 
-- Start “flipping” properties by buying, adding the deed restrictions, and selling again. Financing needs are lower where the existing HOA fees are highest, since that brings down property prices. The sub-HOA should have rules that attract sympathetic buyers.
-- Once enough houses have been “flipped,” owners sympathetic to the sub-HOA can take charge of the master HOA.
+2. Start a sub-HOA within the master HOA. 
+3. Start “flipping” properties by buying, adding the deed restrictions, and selling again. Financing needs are lower where the existing HOA fees are highest, since that brings down property prices. The sub-HOA should have rules that attract sympathetic buyers.
+4. Once enough houses have been “flipped,” owners sympathetic to the sub-HOA can take charge of the master HOA.
 
 Option B: Convert existing housing with no HOA:
 
 1. Each house costs more
-- Only get one house in the eventual HOA for each home purchased
+2. Only get one house in the eventual HOA for each home purchased
 
 Imagine a co-op of 100 homes where the fees lower property prices by half and with a 60 percent voting threshold, compared to 100 non-HOA homes valued at $400,000 each.
 - 60 purchases of $200,000 each vs 100 purchases of $400,000 each
