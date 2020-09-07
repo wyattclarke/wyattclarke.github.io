@@ -6,7 +6,7 @@ published: true
 
 This article imagines how an organization could raise capital for real estate to house college students by pooling students' access to guaranteed government loans. It is inspired by the Korean system of Jeonse. From Wikipedia, 
 
-"Jeonse (전세), also known as Key Money Deposit or Key Money, is a real estate term unique to South Korea that refers to the way apartments are leased. Instead of paying monthly rent, a renter will make a lump-sum deposit on a rental space, at anywhere from 50% to 80% of the market value."
+> "Jeonse (전세), also known as Key Money Deposit or Key Money, is a real estate term unique to South Korea that refers to the way apartments are leased. Instead of paying monthly rent, a renter will make a lump-sum deposit on a rental space, at anywhere from 50% to 80% of the market value."
 
 Jeonse originated when Korean landlords lacked access to banking capital, so they raised capital from residents. Now that banking capital is more readily available in Korea, Jeonse is dying out. But we can imagine how a similar system could be used in America where students have guaranteed access to capital via government student loans.
 
