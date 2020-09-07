@@ -11,7 +11,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Jeonse),
 
 Jeonse originated when Korean landlords lacked access to banking capital, so they raised capital from residents. Now that banking capital is more readily available in Korea, Jeonse is dying out. But we can imagine how a similar system could be used in America where students have guaranteed access to capital via government student loans.
 
-I'm thinking of situations where a capital-constrained organization with limited access to bank loans invests in real estate to house college students with access to government loans. That could include:
+I'm thinking of situations where a __capital-constrained__ organization with limited access to bank loans invests in real estate to house college students with __access to government loans__. That could include:
 
 - College students who want to buy a house for their fraternity or sorority, without a capital endowment
 - A newly formed, capital-constrained college buying an existing college campus
