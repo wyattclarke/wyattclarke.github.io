@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: How to Take Over (a Small Corner of) the World
 ---
