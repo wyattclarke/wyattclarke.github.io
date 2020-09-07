@@ -3,6 +3,8 @@ layout: post
 title: Pool Your Student Loans to Build a Frat House!
 ---
 
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
 This article imagines how an organization could raise capital for real estate to house college students by pooling students' access to guaranteed government loans. It is inspired by the Korean system of Jeonse. From [Wikipedia](https://en.wikipedia.org/wiki/Jeonse), 
 
 > "Jeonse (전세), also known as Key Money Deposit or Key Money, is a real estate term unique to South Korea that refers to the way apartments are leased. Instead of paying monthly rent, a renter will make a lump-sum deposit on a rental space, at anywhere from 50% to 80% of the market value."
