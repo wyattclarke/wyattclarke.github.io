@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pool Your Student Loans to Build a Frat House!
-published: true
 ---
 
 This article imagines how an organization could raise capital for real estate to house college students by pooling students' access to guaranteed government loans. It is inspired by the Korean system of Jeonse. From [Wikipedia](https://en.wikipedia.org/wiki/Jeonse), 
