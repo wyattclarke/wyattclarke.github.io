@@ -1,7 +1,10 @@
 ---
 published: false
 ---
-## How to Take Over (a Small Corner of) the World
+---
+layout: post
+title: How to Take Over (a Small Corner of) the World
+---
 
 What's the easiest way to secure housing for a community of like-minded individuals with a shared purpose? This post compares the money required to (a) build such a neighborhood from scratch versus (b) orchestrate a hostile takeover of a poorly run homeowners association. 
 
