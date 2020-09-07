@@ -9,6 +9,7 @@ Mariela, a hypothetical single mom with two kids, just filed her 2015 federal ta
 
 The answer requires some understanding about how the EITC works. It is a refundable federal tax credit that has been around since the 1970s and acts as one of the federal government’s [biggest anti-poverty programs](http://crfb.org/blogs/eitc-attracts-bipartisan-praise-and-proposals). It’s refreshingly simple: the IRS adds money to each dollar a worker earns up to an income limit. Above a higher income limit, the IRS starts to “phase out” – or take back – that money until none of the credit is left (see figure). 
 
+![_config.yml](/images/Picture1.png)
 
 Source: [Center on Budget and Policy Priorities](http://www.cbpp.org/research/federal-tax/policy-basics-the-earned-income-tax-credit)
  
