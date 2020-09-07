@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm a child of God, a husband and father, an economist, and a data scientist. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This website is a place where I gather and present informal thoughts as well as more formal work I've done in academia. Thanks for checking it out, and leave me a comment!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wyatt.clarke@gmail.com](mailto:wyatt.clarke@gmail.com)
