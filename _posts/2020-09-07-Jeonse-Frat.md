@@ -3,6 +3,12 @@ layout: post
 title: Pool Your Student Loans to Build a Frat House!
 ---
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 This article imagines how an organization could raise capital for real estate to house college students by pooling students' access to guaranteed government loans. It is inspired by the Korean system of Jeonse. 
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Jeonse), 
@@ -21,6 +27,7 @@ The most typical approach when raising capital for housing is for the housing de
 
 While uncommon in college housing, another common real estate financing scheme for shared housing is a condominium. In a condominium, residents buy shares in the building. The table below contrasts typical rentals, condominiums, and Jeonse rental.
 
+
 |                                   |     Monthly Rental    |     Condominium    |            Jeonse Rental          |
 |-----------------------------------|:---------------------:|:------------------:|:---------------------------------:|
 |     Capital from developer        |     High              |     Low            |     Medium                        |
@@ -28,6 +35,7 @@ While uncommon in college housing, another common real estate financing scheme f
 |     Monthly payments              |     Yes               |     No             |     No                            |
 |     Capital risk for residents    |     No                |     Yes            |     No, if landlord is insured    |
 | Control of property               | Centralized           | Decentralized      | Centralized                       |
+{: .tablelines}
 
 Undergraduate students in the US [can borrow](https://www.nerdwallet.com/article/loans/student-loans/much-borrow-college) about $10,000 per year in federal student loans, plus other money they can borrow via private student loans. The average student who graduates with debt is $30k in the red by the end of college. Current interest rates on federal loans are 2.75% per year.
 
