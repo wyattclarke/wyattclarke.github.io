@@ -23,7 +23,7 @@ While uncommon in college housing, another common real estate financing scheme f
 
 |                                   |     Monthly Rental    |     Condominium    |            Jeonse Rental          |
 |-----------------------------------|:---------------------:|:------------------:|:---------------------------------:|
-|     Capital from developer        |     High              |     Low            |     Medium                        |
+|     Capital from developer        ||     High              |     Low            |     Medium                        |
 |     Capital from residents        |     Low               |     High           |     Medium                        |
 |     Monthly payments              |     Yes               |     No             |     No                            |
 |     Capital risk for residents    |     No                |     Yes            |     No, if landlord is insured    |
@@ -31,10 +31,12 @@ While uncommon in college housing, another common real estate financing scheme f
 
 Undergraduate students in the US [can borrow](https://www.nerdwallet.com/article/loans/student-loans/much-borrow-college) about $10,000 per year in federal student loans, plus other money they can borrow via private student loans. The average student who graduates with debt is $30k in the red by the end of college. Current interest rates on federal loans are 2.75% per year.
 
-Imagine a sorority wants to buy a house with space for 50 sisters. Jeonse or "Key Money" of $10,000 from each student's federal loan eligibility would raise $500,000. If each student could muster $40,000, they could pay for the whole house in many college towns with the $2 million raised. 
+Imagine a sorority wants to buy a house with space for 50 sisters. Jeonse or "Key Money" of $10,000 from each student's federal loan eligibility (repaid when they move out) would raise $500,000. If each student could muster $40,000, they could pay for the whole house in many college towns with the $2 million raised. 
 
-That sounds steep for the students, but if the venture were securely backed, the students would be guaranteed to be repaid once they left the housing. How much would interest cost? Assuming 4% average interest rates over 4 years of college, a student who borrowed $40,000 as a freshman and repaid it after senior year would pay total interest charges of $6800, or $142 per month. Obviously, food and maintenance would be additional, but it's not too shabby.
+That sounds steep for the students, but if the venture were securely backed, the students would be guaranteed to be repaid once they left the housing. How much would interest cost? Assuming 4% average interest rates over 4 years of college, a student who borrowed $40,000 as a freshman and repaid it after senior year would pay total interest charges of $6800, or $142 per month.
 
-A system where college freshman start off by contributing $40,000 for housing might sound elitist and impractical...and maybe it is. Or it could be a creative way to fully leverage the egalitarian access to credit that college students almost uniquely have. The elitist bit is perhaps assuming the students don't need their loan eligibility to pay for tuition and food. (Jeonse could pair well with [Income Sharing Agreements](https://www.cnbc.com/2019/02/08/purdue-university-introduces-first-income-sharing-agreement-for-students-.html), where student loans go unused.) As a silver lining, it neutralizes the possibility of students irresponsibly burning through loans they don't really need - because all their loan eligibility is tied up in their housing.
+Obviously, food and maintenance would raise the monthly living cost beyond $142, but it's not too shabby. Four years in my undergraduate dorm, Tarkington Hall at Purdue University, costs $14,520 + food. It's also worth noting that the $142 per month could be paid after graduating since student loan payments are typically deferred while one is still enrolled in school.
+
+A system where college freshman start off by lending $40,000 for housing might sound elitist and impractical...and maybe it is. Or it could be a creative way to fully leverage the egalitarian access to credit that college students almost uniquely have. The elitist bit is perhaps assuming the students don't need their loan eligibility to pay for tuition and food. (Jeonse could pair well with [Income Sharing Agreements](https://www.cnbc.com/2019/02/08/purdue-university-introduces-first-income-sharing-agreement-for-students-.html), where student loans go unused.) As a silver lining, it neutralizes the possibility of students irresponsibly burning through loans they don't really need - because all their loan eligibility is tied up in their housing.
 
 This idea is incomplete at best...but think of the possibilities! :)
