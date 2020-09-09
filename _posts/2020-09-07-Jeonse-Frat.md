@@ -23,7 +23,7 @@ While uncommon in college housing, another common real estate financing scheme f
 
 |                                   |     Monthly Rental    |     Condominium    |            Jeonse Rental          |
 |-----------------------------------|:---------------------:|:------------------:|:---------------------------------:|
-|     Capital from developer        ||     High              |     Low            |     Medium                        |
+|     Capital from developer        |     High              |     Low            |     Medium                        |
 |     Capital from residents        |     Low               |     High           |     Medium                        |
 |     Monthly payments              |     Yes               |     No             |     No                            |
 |     Capital risk for residents    |     No                |     Yes            |     No, if landlord is insured    |
