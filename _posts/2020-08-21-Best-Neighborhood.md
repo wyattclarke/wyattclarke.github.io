@@ -3,7 +3,7 @@ layout: post
 title: Moving to the Best Neighborhood
 ---
 
-When you buy or rent a home, you're getting more than the home. You get proximity to shops and parks, access to schools, and public services like police and fire protection. Perhaps most importantly, you choose your neighbors.
+When you buy or rent a home, you're choosing more than the home. You get proximity to shops and parks, access to schools, and public services like police and fire protection. Perhaps most importantly, you choose your neighbors.
 
 Our neighbors can affect us in many ways. Neighbors determine local crime, whether grocery stores invest in the area, and how our kids' peers behave. Economists call these externalities - side effects on us that our neighbors didn't intend and don't think much about. As a gross generality, richer neighbors typically help with positive externalities and poorer neighbors can drag us down with negative externalities. That's why we move to the best neighborhood we can "afford."
 
