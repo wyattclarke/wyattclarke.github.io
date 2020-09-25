@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Equal Maternity and Paternity Leave is a Pro-Family and Feminist Corporate Policy. Thanks, IBM!
+title: Thanks for Paternity Leave, IBM
 ---
 
 My son was born today!
