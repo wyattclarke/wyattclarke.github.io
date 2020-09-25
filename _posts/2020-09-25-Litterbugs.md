@@ -20,4 +20,4 @@ So here's the plan:
 
 ________________________________________________
 
-P.S. - I like this solution since it's market driven. Maybe it's cynical, but at least it's capitalism. I don't propose expanding government responsibility or power, and the companies would probably pick up the trash more efficiently than governments would. Currently, Yonkers makes token efforts to pick up litter. They send _highly-paid_ union workers _walking_ with _no equipment_ besides a trash bag to half-ass trash pickup occasionally. I want to see McDonald's efficiency applied to trash pickup!
+P.S. - I like this solution since it's market driven. Maybe it's cynical, but at least it's capitalism. I don't propose expanding government responsibility or power, and the companies would probably pick up the trash more efficiently than governments would. Currently, Yonkers makes token efforts to pick up litter. They send _highly-paid_ union workers _walking_ with _no equipment_ besides a trash bag to half-ass trash pickup occasionally. I want to see McDonald's efficiency applied to litter pickup!
