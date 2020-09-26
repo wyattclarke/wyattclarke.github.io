@@ -3,7 +3,7 @@ layout: post
 title: A New Focus on the Family
 ---
 
-Growing up, my Dad liked to read books and listen to radio programs from an organization called [Focus on the Family](https://en.wikipedia.org/wiki/Focus_on_the_Family). They are a Christian media group centered on the premise of "helping families thrive." I always loved that goal. Anyone with a family knows how hard family life can be!
+Growing up, Dad liked to read books and listen to radio programs from an organization called [Focus on the Family](https://en.wikipedia.org/wiki/Focus_on_the_Family). They are a Christian media group centered on the premise of "helping families thrive." I always loved that goal. Anyone with a family knows how hard family life can be!
 
 Unfortunately, Focus on the Family preaches a narrow vision of how family should look. Their focus is promoting the health of traditional married couples with children. To be clear, that's a good vision of family, but I want to argue that it's too narrow in 2020. _We need a group promoting health of the families we have, not just the families we wish we had._
 
