@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Government Help to Raise Families From Poverty...but No Higher
+title: Government Help to Raise Families Above the Poverty Line...but No Higher
 ---
 
 (_This article was originally posted on the_ National Research Center on Hispanic Children and Families' _blog in April 2016, where I interned. Their blog has since disappeared so I'm re-posting here. It was originally titled "Looking at Tax Time for Near Poor Hispanic Families"._)
