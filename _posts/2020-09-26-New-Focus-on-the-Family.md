@@ -7,7 +7,7 @@ Growing up, Dad liked to listen to radio programs from an organization called [F
 
 Unfortunately, Focus on the Family preaches a narrow vision of how family should look. Their focus is promoting the health of traditional married couples with children. To be clear, that's a good vision of family, but I want to argue that it's too narrow in 2020. _We need a group promoting health of the families we have, not just the families we wish we had._
 
-(Focus on the Family is also frequently criticized for some of the social and political positions.  I won't explore those since it's not the focus of this post.)
+(Focus on the Family is also frequently criticized for its social and political positions.  I won't explore those criticisms since it's not the focus of this post.)
 
 Since the good and bad old days of the 1900s, divorce rates have risen, marriage rates have fallen, unmarried cohabitation has risen, and percent of kids being raised in 2-family households has fallen. A lot of other stuff has happened too, like falling church attendance. 
 
