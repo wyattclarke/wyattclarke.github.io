@@ -3,6 +3,6 @@ layout: post
 title: Is Reality Worth Embracing?
 ---
 
-I binge watched a Netflix show earlier this month for 35 hours. That's not healthy, especially as a father of 3. What the hell was I thinking? Simply put, it was fun and the consequences were tomorrow-me's problem. 
+I binge watched a Netflix show recently for 35 hours over two weeks. As a father of three, that's not healthy. What the hell was I thinking? Simply, it was fun and the consequences were tomorrow's problem. 
 
-It occurred to me, during the two weeks it took to commit this crime, that this must be how drug addicts feel. Not the physical effects of addiction, of course, but the 
+It occurred to me, in the two weeks I took to commit this crime, that drug addicts must feel similarly. Not the physical effects of addiction, of course, but the struggle between willful ignorance of future consequences and...embracing reality.
