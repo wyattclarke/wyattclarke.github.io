@@ -10,7 +10,7 @@ Neither my wife nor I have experience growing up and being viewed as black in th
 Since 2018, we've lived in Yonkers, NY near the Fleetwood Metro North station. The place has [warts](https://wyattclarke.github.io/Litterbugs/), but we've found a lot to love. In particular, the economic and cultural distance between black, white, and other residents feels minimal relative to other places we've been. There's less of a gulf between racial groups.
 
 I've spent lots of energy trying to figure out what feels different here. Some of my ideas are:
-- Racially, it's majority black and white (less Asian and Hispanic). But there is so much ethnic diversity within each racial group that skin color is a bad predictor for how people will act or how much money they have. There are recent immigrant communities from Armenia, Ireland, the Caribbean, Africa, etc. 
+- Racially, it's majority black and white (less Asian and Hispanic). But there is so much ethnic diversity within each racial group that skin color tells you relatively little about somebody, including how much money or education they might have. There are recent immigrant communities from Armenia and Ireland and also from the Caribbean and Africa. 
 - The New York Metro Area is all pretty diverse. We can go far before my family feels out of place. Our neighborhood isn't some isolated nook, surrounded by inhospitable places.
 - Most adult residents are professionals, regardless of skin color. 
 
