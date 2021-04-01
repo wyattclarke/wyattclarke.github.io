@@ -21,4 +21,4 @@ Losing reserve currency status is a US policymaker's nightmare, especially for R
 
 To summarize, Republicans want an inflation wealth tax to shake down the rest of the world. Democrats want a wealth tax to shake down the rich. And voters are sheep - who doesn't want low taxes and a fat stimmy from Uncle Sam?
 
-It's all a gamble. Know one knows how long the US government can print money before having inflation. Nobody knows how long the Dollar will remain the world's reserve currency, regardless how much money we print. But if there was every a time for MMT, this is it. YOLO!
+It's all a gamble. Know one knows how long the US government can print money before having inflation. Nobody knows how long the Dollar will remain the world's reserve currency, regardless how much money we print. But if there will ever be a time for MMT, this is it. YOLO!
