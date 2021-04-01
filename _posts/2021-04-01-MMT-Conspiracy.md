@@ -3,7 +3,7 @@ layout: post
 title: What's Really Behind "Modern Monetary Theory"
 ---
 
-I'm not really into conspiracy theories but...here's my juicy conspiracy theory: The Left and the Right are in cahoots to sink the dollar.
+Conspiracy theory: The Left and the Right are in cahoots to sink the dollar.
 
 Alexandria Ocasio-Cortez, a far left US Representative from New York, helped popularize in 2019 a heterodox macroeconomic theory called Modern Monetary Theory. The takeaway from MMT is that the US government can pay for whatever it wants by printing more money. You can read a full explanation on Wikipedia.
 
@@ -17,7 +17,8 @@ First, a wealth tax via inflation falls proportionally on everyone holding the c
 
 The trouble is, we can only get away with a wealth tax once - which is why Republicans typically oppose wealth taxes (or why they claim to). After getting burned by US Dollar inflation, the rest of the world will eventually find new ways to store their wealth, ending the US Dollar's reserve currency status. 
 
-Losing reserve currency status is a policymaker's nightmare, especially for Republicans. So why are they willing to risk it? Here's the second reason: The US Dollar's reserve currency status is doomed anyway.
+Losing reserve currency status is a US policymaker's nightmare, especially for Republicans. So why are they willing to risk it? Here's the second reason: **The US Dollar's reserve currency status is doomed anyway.** The US Dollar's importance is a relic of a time when the US was an economic giant. Now, we're more like an economic NBA player - still big but the same species. China is rapidly becoming the world's largest economy. Bitcoin and other cryptocurrencies threaten governments' control over the money supply. The writing is on the wall. 
 
+To summarize, Republicans want an inflation wealth tax to shake down the rest of the world. Democrats want a wealth tax to shake down the rich. And voters are sheep - who doesn't want low taxes and a fat stimmy from Uncle Sam?
 
-
+It's all a gamble. Know one knows how long the US government can print money before having inflation. Nobody knows how long the Dollar will remain the world's reserve currency, regardless how much money we print. But if there was every a time for MMT, this is it. YOLO!
