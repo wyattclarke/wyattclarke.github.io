@@ -7,7 +7,7 @@ Alexandria Ocasio-Cortez, a far left US Representative from New York, helped pop
 
 "Heterodox" is what mainstream economists call a bullshit idea. But for the past 5 years, under Republican and Democrat control, printing money is exactly how the US has dealt with its problems. It's not a new idea. Every incidence of runaway inflation you'll read about was preceded by the government printing money to pay for what it wants: pre-WWII Germany, Zimbabwe, Venezuela, and more. So why has such a spectacularly reckless idea become the bi-partisan consensus in Washington?
 
-First, the non-controversial part. Inflation is sometimes called a "wealth tax." The way we normally think of taxes, the government appropriates people's buying power by taking away part of their money. With inflation, the government (by creating too much money) appropriates people's buying power by making their money worth less.
+First, the non-controversial part. Inflation is sometimes called a "wealth tax." The way we normally think of taxes, the government appropriates people's buying power by taking away part of their money. With inflation, the government (in creating too much money) appropriates people's buying power by making their money worth less.
 
 It's no mystery that the Left wants wealth taxes. They talk about it in campaign speeches. What's harder to explain is why the Right also wants a wealth tax. There are two reasons. 
 
