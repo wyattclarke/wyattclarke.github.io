@@ -5,7 +5,7 @@ title: What's Really Behind the "Modern Monetary Theory" Bipartisan Consensus?
 
 Alexandria Ocasio-Cortez, a far left US Representative from New York, helped popularize in 2019 a heterodox macroeconomic theory called Modern Monetary Theory. The takeaway from MMT is that the US government can pay for whatever it wants by printing more money. You can read a full explanation on Wikipedia.
 
-"Heterodox" is what mainstream economists call a bullshit idea. But for the past 5 years, under Republican and Democrat control, printing money is exactly how the US has dealt with its problems. It's not a new idea. Every incidence of runaway inflation you'll read about was preceded by the government printing money to pay for what it wants: pre-WWII Germany, Zimbabwe, Venezuela, and more. So why has such a spectacularly reckless idea become the bi-partisan consensus in Washington...?
+"Heterodox" is what mainstream economists call a bullshit idea. But for the past 5 years, under Republican and Democrat control, printing money is exactly how the US has dealt with its problems. It's not a new idea. Every incidence of runaway inflation you'll read about was preceded by the government printing money to pay for what it wants: pre-WWII Germany, Zimbabwe, Venezuela, and more. So why has such a spectacularly reckless idea become the bi-partisan consensus in Washington?
 
 First, the non-controversial part. Inflation is sometimes called a "wealth tax." The way we normally think of taxes, the government appropriates people's buying power by taking away part of their money. With inflation, the government (by creating too much money) appropriates people's buying power by making their money worth less.
 
