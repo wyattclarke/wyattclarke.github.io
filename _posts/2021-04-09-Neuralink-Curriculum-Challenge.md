@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How Do They Do That?!" Challenge
+title: Neuralink Explainer Curriculum Challenge
 ---
 
 I woke up this morning and watched a [video from Neuralink](https://www.youtube.com/watch?v=rsCul1sp4hQ) of a monkey playing a computer game with its brain. How on God's green Earth do they do that!?
