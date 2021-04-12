@@ -14,4 +14,14 @@ Some goals I have in mind are:
  - Residential models should be scalable, up or down depending on demand
  - Produce entrepreneurs and opportunity for rural communities
  - Avoid drug use, sexual abuse, and abuse of power
+
+It would start by embedding in a friendly institution that would take up this goal, support me and my family, and have access to cheap ample housing for students. Some places that come to mind are:
+- [Koinonia Farm](https://www.koinoniafarm.org/) in Georgia
+- [Jesus People USA](https://jesuspeoplechicago.org/) in Chicago
+- [The Bean Path](https://thebeanpath.org/) in Jackson, MS
+- [The Bruderhof](https://www.bruderhof.com/) in upstate New York
+- Hailey Dady's flower farm near Lafayette, IN
+- Catholic Charities
+- A college with too much dormitory capacity
  
+Students would be provided the wrap-around services of a residential college, but their training would be an online program in which they enroll themselves. Areas of study should be flexible, but focused on topics where there is advisor expertise and local economic support. Services would include a work-study job in a business owned by Trailer Park U, a childcare co-op that heavily relies on parents' contributions, a cafeteria, academic advising, and study groups. Advisors would help students navigate training resources available on the internet and encourage entrepreneurialism. 
